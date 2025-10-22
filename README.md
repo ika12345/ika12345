@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Abhishika from NIT Hamirpur <br><br>- 🔭 I’m a full stack developer <br>- 📚 I'm currently learning AWS <br>- ⚡ In my free time I like to document my life in journals and read fantasy novels</p>
 
 ###
 
