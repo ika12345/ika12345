@@ -21,9 +21,6 @@
 
 <div align="center"><p>Open-source contributions , UI-UX design , cloud architecture</p></div>
 
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
-
-
 ## 📊 GitHub Stats
 
 <!-- ⚠️ Important: Replace 'ika12345' with your actual GitHub username in the URL below -->
