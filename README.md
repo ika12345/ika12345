@@ -1,8 +1,10 @@
 <div align="center">
 
-# 🌟 Welcome to Abhishika Choudhary's Profile 🌟
+# 🌟 Hi! I'm  Abhishika 🌟
 
 <p><em>Full stack developer and problem solving enthusiast . </em></p>
+<p><em>Pursuing Computer Science Engineering at NIT Hamirpur. </em></p>
+
 
 <img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
 <img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
@@ -11,9 +13,9 @@
 
 <hr>
 
-## 🔭 I'm currently working on
+## 🔭 I'm currently building 
 
-<div align="center"><p>Working on a personal blog project</p></div>
+<div align="center"><p>personal blog project</p></div>
 
 ## 👀 I'm interested in
 
@@ -23,7 +25,7 @@
 
 <!-- ⚠️ Important: Replace 'ika12345' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ika12345/count.svg" />
+  ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
   <br>Thank you for visiting my profile! Come back soon!
 </p>
 
