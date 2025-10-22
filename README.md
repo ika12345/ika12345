@@ -1,55 +1,76 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+# ✨ Abhishika Choudhary ✨
+
+<p><em>Full stack developer and problem solving enthusiast . </em></p>
+
+<hr>
+
 </div>
 
-###
+## 🔭 I'm currently working on
+
+<div align="center"><p>Working on a personal blog project</p></div>
+
+## 👀 I'm interested in
+
+<div align="center"><p>Open-source contributions , UI-UX design , cloud architecture</p></div>
+
+## 👀 Visitor Count
+
+<!-- ⚠️ Important: Replace 'ika12345' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ika12345/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
+
+## 📊 GitHub Stats
+
+<!-- ⚠️ Important: Replace 'ika12345' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ika12345&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'ika12345' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ika12345&theme=buefy&hide_border=false" />
+</div>
+
+## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+
+**🎨 Frontend**
+
+`React` • `Next.js` • `Tailwind` • `CSS3` • `HTML5` • `Sass`
+
+**⚙️ Backend**
+
+`Node.js` • `Express` • `MongoDB`
+
 </div>
 
-###
+## 🌐 Socials
 
-<h1 align="center">hey there 👋</h1>
+<div align="center">
 
-###
+<a href="https://github.com/ika12345"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/abhishika-choudhary-85434831b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Abhishika from NIT Hamirpur <br><br>- 🔭 I’m a full stack developer <br>- 📚 I'm currently learning AWS <br>- ⚡ In my free time I like to document my life in journals and read fantasy novels</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
-###
+## 📫 How to reach me
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="center">
 
-###
+**Email:** Abhishikachoudhary06@gmail.com
+**Phone:** +918966013371
+
+</div>
+
+<div align="center">
+
+✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
+
+</div>
